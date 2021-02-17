@@ -6,5 +6,5 @@ I am learning git
 
 # Enjoy
 
-I am enjoying while working with the g
+I am enjoying while working with the git
 
